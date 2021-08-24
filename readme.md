@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **archithinge9@gmail.com**
 
-- ⚡ Fun fact **I am**
+- ⚡ Fun fact **I am an E-sports enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

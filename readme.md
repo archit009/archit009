@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud, DevOps and Microservices**
 
-- 🤝 I’m looking for help with **NextJS and ReactJS**
+- 🤝 I’m looking for help with **Infra As Code, CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://archit-hinge.netlify.app/](https://archit-hinge.netlify.app/)
 

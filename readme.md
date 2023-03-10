@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archit</h1>
-<h3 align="center">Aspiring front-end developer</h3>
+<h3 align="center">Aspiring DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **Amazon Clone using ReactJS**
+- 🔭 I’m currently working on **CI/CD Pipeline using Jenkins and AWS**
 
 - 🌱 I’m currently learning **Cloud, DevOps and Microservices**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://archit-hinge.netlify.app/](https://archit-hinge.netlify.app/)
 
-- 💬 Ask me about **React, NextJS, Vanilla JS**
+- 💬 Ask me about **Front End Development, ETL Processes**
 
 - 📫 How to reach me **archithinge9@gmail.com**
 
